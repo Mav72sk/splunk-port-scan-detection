@@ -22,3 +22,5 @@ Quick Start 
 | src_ip        | unique_ports |
 |---------------|--------------|
 | 192.168.1.100 | 4            |
+
+<img width="762" height="380" alt="Screenshot 2025-07-10 at 7 55 09 PM" src="https://github.com/user-attachments/assets/4e8b8334-7ff2-4f42-b988-b74ee52d2be1" />
